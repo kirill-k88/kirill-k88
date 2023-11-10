@@ -14,6 +14,7 @@
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/04dbde94-c76d-4875-85b2-6ed1540c64e6" alt="screenShot" style="width: 50px; height: 50px;">
 `
 
+![image](https://github.com/kirill-k88/kirill-k88/assets/100775872/cce83a15-f35b-448e-906f-55854c75fd88)
 
 <!--
 **kirill-k88/kirill-k88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
