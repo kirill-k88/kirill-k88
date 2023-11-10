@@ -1,7 +1,7 @@
+<div style="background-image: url(https://github.com/kirill-k88/kirill-k88/assets/100775872/7bdeb2f5-3167-46c3-945a-a83482a673d4)">
 <h1 style="color: blue; font-size: 20px">Hi! <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/5dd29894-d7f7-4de3-a325-be8b5b37c591" alt="screenShot" style="width: 50px; height: 50px;"></h1>
 
 My name is Kirill Katsnelson. I have been working with web for two years, and i really like frontend developing!
-![1614573851_44-p-boke-na-belom-fone-48](https://github.com/kirill-k88/kirill-k88/assets/100775872/7bdeb2f5-3167-46c3-945a-a83482a673d4)
 
 ## My stack:
 
@@ -19,6 +19,7 @@ My name is Kirill Katsnelson. I have been working with web for two years, and i 
 ## My sats:
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kirill-k88" alt="GitHub Streak" /></a>
 
+</div>
 <!--
 **kirill-k88/kirill-k88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
