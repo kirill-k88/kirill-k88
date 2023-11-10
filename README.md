@@ -1,6 +1,7 @@
 ### Hi!
 
-<img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/08fe4efe-cf0d-4911-b137-687e0781312d" alt="screenShot" style="width: 50px; height: 50px;">
+<img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/5dd29894-d7f7-4de3-a325-be8b5b37c591" alt="screenShot" style="width: 50px; height: 50px;">
+
 
 
 My name is Kirill Katsnelson. I have been working with web for two years, and i really like frontend developing!
