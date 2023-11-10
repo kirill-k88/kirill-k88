@@ -11,8 +11,9 @@
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/4ff4226a-f4e3-41ad-82ba-93c2b1b42362" alt="screenShot" style="width: 50px; height: 50px;">
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/ddc0cd7f-9d9a-4d34-a18b-9d95714e4acf" alt="screenShot" style="width: 50px; height: 50px;">
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/95bec68b-d857-4190-a1fc-67ecdee7c44f" alt="screenShot" style="width: 100px; height: 50px;">
-<img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/f9e77508-475f-4f77-860e-8a7de2256bef" alt="screenShot" style="width: 100px; height: 100px;">
+<img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/04dbde94-c76d-4875-85b2-6ed1540c64e6" alt="screenShot" style="width: 50px; height: 50px;">
 `
+
 
 <!--
 **kirill-k88/kirill-k88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
