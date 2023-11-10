@@ -2,7 +2,7 @@
 
 My name is Kirill Katsnelson. I have been working with web for two years, and i really like frontend developing!
 
-## My frontend stack:
+## My stack:
 
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/08697c37-5c7c-42c5-85bf-d793a828d258" alt="screenShot" style="width: 50px; height: 50px;">
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/f1f344ca-e22b-4428-ba6f-ed0162e40db9" alt="screenShot" style="width: 50px; height: 50px;">
@@ -15,7 +15,7 @@ My name is Kirill Katsnelson. I have been working with web for two years, and i 
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/95bec68b-d857-4190-a1fc-67ecdee7c44f" alt="screenShot" style="width: 100px; height: 50px;">
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/04dbde94-c76d-4875-85b2-6ed1540c64e6" alt="screenShot" style="width: 50px; height: 50px;">
 
-## My Sats:
+## My sats:
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kirill-k88" alt="GitHub Streak" /></a>
 
 <!--
