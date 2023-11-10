@@ -1,5 +1,6 @@
 <h1 style="color: blue; font-size: 20px">Hi, Everyone! <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/5dd29894-d7f7-4de3-a325-be8b5b37c591" alt="screenShot" style="width: 50px; height: 50px;"></h1>
-My name is Kirill Katsnelson and i'm from Russia. I have been working with web for two years, and i really like frontend developing!
+<p>My name is Kirill Katsnelson and I'm from Russia.
+  I have been working with web for two years, and i really like frontend developing!</p>
 
 ## My stack:
 
