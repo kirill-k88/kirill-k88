@@ -18,7 +18,7 @@
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kirill-k88" alt="GitHub Streak" /></a>
 
 ## My contacts:
-<ul style="list-style: none;">
+<ul style="list-style-type: none">
   <li><a href="https://t.me/Kirill_Katsnelson"><img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/232eed6b-45fa-425c-8e71-9f85188fc2e3" alt="telegramm img" style="width: 50px; height: 50px;"/></a></li>
-  <li><a href="mailto:katsnelson.kirill@ya.ru">email: katsnelson.kirill@ya.ru</a></li>
+  <li>Email: <a href="mailto:katsnelson.kirill@ya.ru">katsnelson.kirill@ya.ru</a></li>
 </ul>
