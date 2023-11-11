@@ -15,10 +15,8 @@
 <img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/04dbde94-c76d-4875-85b2-6ed1540c64e6" alt="screenShot" style="width: 50px; height: 50px;">
 
 ## My contacts:
-<ul style="list-style-type: none">
-  <li><a href="https://t.me/Kirill_Katsnelson"><img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/232eed6b-45fa-425c-8e71-9f85188fc2e3" alt="telegramm img" style="width: 50px; height: 50px;"/></a></li>
-  <li><a href="mailto:katsnelson.kirill@ya.ru"><img src="https://github.com/kirill-k88/kirill-k88/assets/100775872/771dc00c-a21b-4e53-aa39-1892a7a75daf" alt="mail img" style="width: 50px; height: 50px;"/></a></li>
-</ul>
+  <li>Telegramm: <a href="https://t.me/Kirill_Katsnelson">https://t.me/Kirill_Katsnelson</a></li>
+  <li>Email: <a href="mailto:katsnelson.kirill@ya.ru">katsnelson.kirill@ya.ru</a></li>
 
 ## My stats:
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kirill-k88" alt="GitHub Streak" /></a>
